@@ -1,6 +1,3 @@
-Je vais mettre à jour le fichier README.md avec les nouvelles sections. Voici le contenu que je vais ajouter :
-
-```markdown
 # insee-code-retriever
 
 Ce projet contient un script en Python qui permet de récupérer pour chaque station de métro, bus et autres, le code INSEE associé et sa commune.
